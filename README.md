@@ -1,3 +1,3 @@
 # BudgetOne
-This is a private project for wealth management. Contact me via robemcarthur@outlook.com for any inquiries.
+This is a project for wealth management. Contact me via rob@celticconnections.org for any inquiries.
 
